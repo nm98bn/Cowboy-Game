@@ -5,4 +5,4 @@ The player is thrown into an area and has to fight various different enemies. Th
 The attack values of the player and the enemies are randomly chosen whenever both attack. The player has the option of healing and running during a fight.
 The enemy has a chance to drop banadges (In game healing item) for the player upon dying. 
 The player starts with three bandages. 
-I'm in the process of creating specific areas with specific enemies, specific weapons, and a storyline.
+I'm in the process of creating specific areas with specific enemies, specific weapons, a stroyline, and a GUI
